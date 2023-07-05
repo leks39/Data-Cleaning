@@ -1,0 +1,127 @@
+Customer_Id,Customer_Name,Gender,Street_Address,City,State_Code,Zip,Order_Day,Order_Time,Item_Purchased,Payment_Method,Price,Quantity,Revenue
+1001,Kalila Birtwistle,Female,867 Willow St, Los Angeles,CA,90001,2022-02-19,21:47:00,Bookcases,Card,35.46,1,35.46
+1002,Norbert Gotcher,Male,657 Johnson St, San Francisco,CA,94016,2022-02-20,17:26:00,Copiers,Card,229.72,1,229.72
+1003,Cord Warriner,Male,492 Walnut St, San Francisco,CA,94016,2022-02-01,22:00:00,Chairs,Card,48.17,2,96.34
+1004,Lorry Booley,Female,322 6th St, San Francisco,CA,94016,2022-02-09,18:14:00,Phones,Card,584.82,1,584.82
+1005,Nolie Orring,Female,618 7th St, Los Angeles,CA,90001,2022-02-16,12:35:00,Appliances,Card,64.7,1,64.7
+1006,Leighton Ebbles,Male,512 Wilson St, San Francisco,CA,94016,2022-02-11,23:33:00,Accessories,Card,41.8,1,41.8
+1007,Cymbre Janos,Female,363 Spruce St, Austin,TX,73301,2022-02-03,09:46:00,Chairs,Card,74.1,1,74.1
+1008,Anna-diane Preddle,Female,440 Cedar St, Portland,OR,97035,2022-02-16,16:52:00,Storage,Card,65.32,1,65.32
+1009,Corissa Zienkiewicz,Female,471 Center St, Los Angeles,CA,90001,2022-02-03,22:21:00,Labels,Card,37.1,1,37.1
+1010,Miller Faloon,Male,414 Walnut St, Boston,MA,02215,2022-02-09,08:28:00,Art,Card,81.26,1,81.26
+1011,Toiboid Sorrel,Male,220 9th St, Los Angeles,CA,90001,2022-02-14,10:13:00,Storage,Cash,33.75,1,33.75
+1012,Adrian Prettyjohns,Male,385 11th St, Atlanta,GA,30301,2022-02-13,20:05:00,Supplies,Card,21.32,1,21.32
+1013,Jacquenette Pluthero,Female,238 Sunset St, Seattle,WA,98101,2022-02-27,23:10:00,Envelopes,Card,12.56,3,37.68
+1014,Matthiew Ferreras,Male,764 11th St, Los Angeles,CA,90001,2022-02-19,10:51:00,Fasteners,Card,10.4,1,10.4
+1015,Ignazio Milby,Male,675 Washington St, Portland,OR,97035,2022-02-18,13:09:00,Fasteners,Card,10.4,1,10.4
+1016,Natala Thorndale,Female,338 Highland St, San Francisco,CA,94016,2022-02-19,12:04:00,Bookcases,Card,35.46,1,35.46
+1017,Elvis Rixon,Male,820 1st St, San Francisco,CA,94016,2022-02-17,11:30:00,Accessories,Card,41.8,1,41.8
+1018,Suzann Wilks,Male,920 Adams St, San Francisco,CA,94016,2022-02-07,16:06:00,Envelopes,Card,12.56,1,12.56
+1019,Iseabal Fullbrook,Female,293 Hill St, San Francisco,CA,94016,2022-02-07,16:06:00,Art,Card,37.74,1,37.74
+1020,Rhodia D'Onise,Female,840 Lincoln St, Atlanta,GA,30301,2022-02-21,22:23:00,Supplies,Card,37.74,1,37.74
+1021,Ario Jeromson,Male,291 Lincoln St, San Francisco,CA,94016,2022-02-13,19:07:00,Copiers,Card,229.72,1,229.72
+1022,Vernon Hakking,Male,640 Spruce St, Boston,MA,02215,2022-02-26,12:14:00,Envelopes,Card,12.56,1,12.56
+1023,Rolando Sherewood,Male,937 Highland St, New York City,NY,10001,2022-02-03,19:10:00,Chairs,Card,48.17,1,48.17
+1024,Thorn Torfin,Male,853 Ridge St, Boston,MA,02215,2022-02-20,16:10:00,Accessories,Card,41.8,1,41.8
+1025,Forbes Londors,Male,834 4th St, Dallas,TX,75001,2022-02-05,16:51:00,Envelopes,Card,12.56,1,12.56
+1026,Nariko Dummigan,Female,649 Sunset St, Los Angeles,CA,90001,2022-02-11,18:10:00,Paper,Cash,14.51,1,14.51
+1027,Baudoin McCartney,Male,812 Jefferson St, Los Angeles,CA,90001,2022-02-28,18:30:00,Labels,Card,37.1,1,37.1
+1028,Ravid Kilgallon,Male,469 Hill St, San Francisco,CA,94016,2022-02-14,14:13:00,Storage,Card,33.75,1,33.75
+1029,Cullen Langshaw,Male,90 13th St, Boston,MA,02215,2022-02-02,20:33:00,Art,Card,81.26,1,81.26
+1030,Jo-anne Pringer,Female,818 Lincoln St, New York City,NY,10001,2022-02-13,08:38:00,Binders,Card,30.78,1,30.78
+1031,Nettie Bulfit,Female,994 13th St, Boston,MA,02215,2022-02-19,08:17:00,Appliances,Card,64.7,1,64.7
+1032,Hieronymus Whinray,Male,8 Jackson St, Los Angeles,CA,90001,2022-02-28,11:17:00,Art,Card,81.26,1,81.26
+1033,Emmerich Tinkler,Male,610 Walnut St, Austin,TX,73301,2022-02-02,08:25:00,Art,Card,81.26,1,81.26
+1034,Francisca Whittek,Female,610 Walnut St, Austin,TX,73301,2022-02-02,08:25:00,Storage,Card,4.253,1,4.253
+1035,Farrel Waiting,Male,63 Cherry St, Los Angeles,CA,90001,2022-02-26,18:11:00,Furnishings,Card,75.23,1,75.23
+1036,Elias Gerrie,Male,370 Lakeview St, Austin,TX,73301,2022-02-21,08:46:00,Labels,Card,37.1,1,37.1
+1037,Betsy Schruurs,Female,100 Cherry St, New York City,NY,10001,2022-02-18,12:21:00,Binders,Card,30.78,1,30.78
+1038,Burr Lygoe,Male,938 14th St, Boston,MA,02215,2022-02-25,08:12:00,Furnishings,Card,37.74,1,37.74
+1039,Horacio Peyntue,Male,530 7th St, Los Angeles,CA,90001,2022-02-06,20:06:00,Storage,Card,65.32,2,130.64
+1040,Leighton Zisneros,Male,274 2nd St, Atlanta,GA,30301,2022-02-20,00:21:00,Storage,Card,65.32,1,65.32
+1041,Garald Pidler,Male,125 Center St, New York City,NY,10001,2022-02-04,11:09:00,Fasteners,Card,10.4,1,10.4
+1042,Tory Minnette,Female,68 Hickory St, Seattle,WA,98101,2022-02-21,13:24:00,Paper,Card,14.51,1,14.51
+1043,Alexis Aronov,Male,462 1st St, Los Angeles,CA,90001,2022-02-14,23:23:00,Accessories,Card,41.8,1,41.8
+1044,Tomkin Fudge,Male,447 Cedar St, Seattle,WA,98101,2022-02-23,10:21:00,Envelopes,Card,12.56,1,12.56
+1045,Mina Clawley,Female,505 Hickory St, Dallas,TX,75001,2022-02-27,11:58:00,Art,Card,81.26,1,81.26
+1046,Nicko Saddleton,Male,386 Elm St, San Francisco,CA,94016,2022-02-18,20:12:00,Chairs,Card,48.17,1,48.17
+1047,Abra Cuardall,Female,789 Washington St, Los Angeles,CA,90001,2022-02-19,09:23:00,Binders,Card,30.78,1,30.78
+1048,Shelley Stroyan,Male,4 1st St, Los Angeles,CA,90001,2022-02-27,16:51:00,Storage,Card,33.75,1,33.75
+1049,Vassily Ramalho,Male,4 1st St, Los Angeles,CA,90001,2022-02-19,10:25:00,Machines,Card,107.72,1,107.72
+1050,Warner Zuker,Male,632 13th St, Los Angeles,CA,90001,2022-02-11,11:18:00,Accessories,Card,41.8,1,41.8
+1051,Alice Backson,Female,847 Ridge St, Los Angeles,CA,90001,2022-02-12,12:00:00,Storage,Card,33.75,3,101.25
+1052,Vidovic Fretson,Male,880 Washington St, Boston,MA,02215,2022-02-20,07:02:00,Machines,Cash,107.72,1,107.72
+1053,Cari Worling,Female,907 Highland St, San Francisco,CA,94016,2022-02-07,13:32:00,Copiers,Card,229.72,1,229.72
+1054,Irving Murton,Male,898 Lakeview St, Austin,TX,73301,2022-02-28,12:45:00,Phones,Card,584.82,1,584.82
+1055,Essy Vondrak,Female,889 Cedar St, Atlanta,GA,30301,2022-02-08,23:20:00,Art,Card,81.26,1,81.26
+1056,Shay Gimbart,Male,566 Highland St, San Francisco,CA,94016,2022-02-09,15:03:00,Fasteners,Card,10.4,1,10.4
+1057,Guglielmo Yele,Male,81 10th St, Dallas,TX,75001,2022-02-13,23:51:00,Bookcases,Card,35.46,3,106.38
+1058,Maddy Aiskovitch,Female,836 Hill St, Dallas,TX,75001,2022-02-10,01:32:00,Paper,Card,14.51,1,14.51
+1059,Sisely Strelitzer,Female,121 Cherry St, Boston,MA,02215,2022-02-11,07:26:00,Art,Card,81.26,1,81.26
+1060,Anna-diana Kurten,Female,867 Hill St, New York City,NY,10001,2022-02-21,11:18:00,Fasteners,Card,10.4,1,10.4
+1061,Talya Darycott,Female,90 14th St, Portland,OR,97035,2022-02-09,15:21:00,Binders,Card,30.78,1,30.78
+1062,Vite Molyneux,Male,313 14th St, Seattle,WA,98101,2022-02-01,10:43:00,Art,Card,81.26,1,81.26
+1063,Ninon Van Der Hoog,Female,363 Willow St, Los Angeles,CA,90001,2022-02-24,13:37:00,Art,Card,81.26,1,81.26
+1064,Dunstan Kegley,Male,756 Wilson St, Austin,TX,73301,2022-02-10,09:07:00,Furnishings,Cash,75.23,1,75.23
+1065,Hewett Handes,Male,458 Forest St, San Francisco,CA,94016,2022-02-12,21:56:00,Fasteners,Card,10.4,1,10.4
+1066,Caro McKirton,Female,895 Johnson St, Boston,MA,02215,2022-02-17,21:54:00,Paper,Card,14.51,1,14.51
+1067,Wally Rebbeck,Male,926 Cedar St, Portland,OR,97035,2022-02-04,23:36:00,Labels,Card,37.1,1,37.1
+1068,Cayla Marcus,Female,423 Elm St, San Francisco,CA,94016,2022-02-23,15:17:00,Art,Card,81.26,1,81.26
+1069,Basile Le Floch,Male,679 8th St, San Francisco,CA,94016,2022-02-05,13:49:00,Art,Card,81.26,2,162.52
+1070,Eunice Risom,Female,223 North St, Atlanta,GA,30301,2022-02-13,01:38:00,Bookcases,Card,35.46,1,35.46
+1071,Tito Brash,Male,741 11th St, San Francisco,CA,94016,2022-02-06,23:18:00,Machines,Card,107.72,1,107.72
+1072,Dianemarie Hatherall,Female,38 Johnson St, Los Angeles,CA,90001,2022-02-01,16:01:00,Bookcases,Card,35.46,3,106.38
+1073,Bendix Olivella,Male,700 Jefferson St, New York City,NY,10001,2022-02-21,13:04:00,Storage,Card,33.75,1,33.75
+1074,Lizzie Duke,Female,842 8th St, Seattle,WA,98101,2022-02-09,18:32:00,Furnishings,Card,75.23,1,75.23
+1075,Clarinda Edlyn,Female,235 South St, Seattle,WA,98101,2022-02-19,18:52:00,Binders,Card,30.78,1,30.78
+1076,Matelda Kordas,Female,875 Meadow St, New York City,NY,10001,2022-02-01,13:58:00,Art,Card,81.26,2,162.52
+1077,Venus Sketch,Female,789 Lakeview St, Boston,MA,02215,2022-02-15,02:05:00,Binders,Card,30.78,1,30.78
+1078,Gil De Gregorio,Female,548 Maple St, Boston,MA,02215,2022-02-12,18:16:00,Binders,Card,30.78,1,30.78
+1079,Pollyanna Serjeantson,Female,326 12th St, Los Angeles,CA,90001,2022-02-09,18:23:00,Phones,Card,37.74,1,37.74
+1080,Charles Carren,Male,207 8th St, Los Angeles,CA,90001,2022-02-09,09:22:00,Accessories,Card,41.8,1,41.8
+1081,Reba Southon,Female,816 Lake St, Boston,MA,02215,2022-02-25,16:19:00,Storage,Card,33.75,1,33.75
+1082,Royall Terris,Male,240 River St, New York City,NY,10001,2022-02-28,12:52:00,Phones,Card,584.82,1,584.82
+1083,Sylvan Sugge,Male,851 Maple St, San Francisco,CA,94016,2022-02-27,14:30:00,Fasteners,Card,10.4,3,31.200000000000003
+1084,Daffi Sewley,Female,880 Lake St, Austin,TX,73301,2022-02-13,10:09:00,Labels,Card,37.1,1,37.1
+1085,Reeva Eakeley,Female,131 Center St, San Francisco,CA,94016,2022-02-26,21:13:00,Paper,Card,14.51,1,14.51
+1086,Shawn Platfoot,Female,238 Washington St, Los Angeles,CA,90001,2022-02-24,13:36:00,Binders,Card,30.78,1,30.78
+1087,Bab Bingall,Female,736 5th St, Seattle,WA,98101,2022-02-20,12:38:00,Phones,Card,584.82,1,584.82
+1088,Lonni Andrichak,Female,122 5th St, Portland,ME,04101,2022-02-09,13:55:00,Bookcases,Card,35.46,1,35.46
+1089,Jozef Frizzell,Male,391 5th St, Portland,OR,97035,2022-02-14,13:59:00,Copiers,Card,229.72,2,459.44
+1091,Deedee Fransinelli,Female,207 7th St, Los Angeles,CA,90001,2022-02-27,17:46:00,Paper,Card,14.51,1,14.51
+1092,Yard Teeney,Male,554 10th St, Los Angeles,CA,90001,2022-02-26,18:56:00,Art,Card,81.26,1,81.26
+1093,Fields Bayne,Male,459 4th St, San Francisco,CA,94016,2022-02-03,20:51:00,Machines,Card,107.72,1,107.72
+1094,Trudie Capper,Female,174 4th St, Los Angeles,CA,90001,2022-02-01,11:17:00,Appliances,Card,64.7,1,64.7
+1095,Trude Rizzardo,Female,811 Hickory St, Portland,OR,97035,2022-02-24,17:02:00,Copiers,Card,229.72,1,229.72
+1096,Robbie Yakubovics,Female,947 Church St, San Francisco,CA,94016,2022-02-11,19:07:00,Paper,Card,14.51,1,14.51
+1097,Arv Whitsey,Male,542 4th St, Dallas,TX,75001,2022-02-26,10:35:00,Storage,Card,33.75,1,33.75
+1098,Jareb Langcaster,Male,539 Lakeview St, Dallas,TX,75001,2022-02-03,11:12:00,Envelopes,Card,12.56,1,12.56
+1099,Stormie Smyth,Female,710 Johnson St, Boston,MA,02215,2022-02-18,15:24:00,Storage,Cash,33.75,1,33.75
+1100,Leigha Bacchus,Female,119 9th St, Seattle,WA,98101,2022-02-09,17:32:00,Labels,Card,37.1,1,37.1
+1101,Darcy Jaslem,Male,157 1st St, New York City,NY,10001,2022-02-05,15:31:00,Binders,Card,30.78,5,153.9
+1102,Nathan Antognazzi,Male,443 Washington St, Portland,OR,97035,2022-02-09,22:21:00,Machines,Card,107.72,1,107.72
+1103,Lisle Yokel,Male,398 5th St, San Francisco,CA,94016,2022-02-17,21:00:00,Paper,Card,14.51,1,14.51
+1104,Elicia Normanvill,Female,285 Cherry St, Boston,MA,02215,2022-02-23,15:39:00,Art,Card,81.26,1,81.26
+1105,Klemens Eite,Male,885 Walnut St, Atlanta,GA,30301,2022-02-02,22:17:00,Binders,Card,30.78,1,30.78
+1106,Otes Gottelier,Male,493 5th St, Portland,OR,97035,2022-02-08,06:24:00,Binders,Card,30.78,1,30.78
+1107,Rodrigo Felce,Male,886 10th St, New York City,NY,10001,2022-02-02,07:46:00,Accessories,Card,41.8,1,41.8
+1108,Rochella Harce,Female,804 River St, San Francisco,CA,94016,2022-02-16,11:19:00,Fasteners,Card,10.4,1,10.4
+1109,Tirrell Cosgreave,Male,865 Church St, San Francisco,CA,94016,2022-02-10,11:19:00,Supplies,Card,21.32,1,21.32
+1110,Jobina Dudenie,Female,800 4th St, Los Angeles,CA,90001,2022-02-17,22:34:00,Art,Card,81.26,1,81.26
+1111,Faythe Rance,Female,870 Cherry St, New York City,NY,10001,2022-02-09,10:06:00,Chairs,Card,48.17,1,48.17
+1112,Sherman Gullen,Male,869 Hill St, Atlanta,GA,30301,2022-02-10,21:39:00,Storage,Cash,33.75,1,33.75
+1113,Nathanial D'Ambrogi,Male,674 Main St, Dallas,TX,75001,2022-02-21,21:03:00,Bookcases,Card,35.46,1,35.46
+1114,Ephrayim Beville,Male,336 1st St, Boston,MA,02215,2022-02-24,20:53:00,Phones,Card,584.82,2,1169.64
+1115,Kennett Attack,Male,850 River St, Atlanta,GA,30301,2022-02-23,18:34:00,Copiers,Card,229.72,1,229.72
+1116,Amaleta Slafford,Female,911 Madison St, San Francisco,CA,94016,2022-02-26,10:07:00,Phones,Card,584.82,1,584.82
+1117,Pascal Veronique,Male,383 11th St, Seattle,WA,98101,2022-02-20,13:08:00,Art,Card,81.26,2,162.52
+1118,Isaac Jacobs,Male,263 Meadow St, Los Angeles,CA,90001,2022-02-14,10:12:00,Tables,Card,68.33,1,68.33
+1119,Ruth Marina,Female,181 Lakeview St, Portland,OR,97035,2022-02-10,13:51:00,Furnishings,Card,75.23,1,75.23
+1120,Ruth Marina,Female,181 Lakeview St, Portland,OR,97035,2022-02-10,13:51:00,Furnishings,Card,75.23,1,75.23
+1121,John Wood,Male,921 Highland St, Dallas,TX,75001,2022-02-20,15:12:00,Furnishings,Card,75.23,1,75.23
+1122,Jeff Harrison,Male,657 Lincoln St, Dallas,TX,75001,2022-02-22,10:25:00,Bookcases,Card,35.46,1,35.46
+1123,Leana Bailey,Female,20 Dogwood St, New York City,NY,10001,2022-02-25,18:00:00,Envelopes,Card,12.56,1,12.56
+1124,John Martins,Male,20 Dogwood St, New York City,NY,10001,2022-02-17,18:45:00,Storage,Card,33.75,1,33.75
+1125,Hannah Berry,Female,803 Church St, Seattle,WA,98101,2022-02-03,18:22:00,Furnishings,Card,75.23,2,150.46
+1126,Joyce Majors,Female,23 13th St, San Francisco,CA,94016,2022-02-16,13:50:00,Appliances,Card,64.7,1,64.7
+1127,Bryan Andersen,Male,387 Hill St, Los Angeles,CA,90001,2022-02-08,10:01:00,Art,Cash,81.26,2,162.52
