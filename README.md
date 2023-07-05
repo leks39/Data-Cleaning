@@ -7,4 +7,18 @@ Data cleaning is a skillset analysts rarely get a chance to develop while learni
 
 In order to create a comprehensive data cleaning project, data used for this project was created from a combination of online datasets with each column edited to address common data cleaning issues like; changing datatypes, cleaning strings, changing column names, etc.
 
+After getting a better overview of the dataset from the EDA section, this section focuses on applying data cleaning techniques to covert the original dataset (dirty_data) into a quality data that can be used for decision making.
+
+Data is said to have quality if it fufils the following criteria;
+
+* Accuracy : Data reflects real world objects, events and scenarios and are sourced from verifiable source(s)
+
+* Completeness : Data has the ability to delivers complusory/required values successfully
+
+* Consistency : Data is unifrom across all datasets with no conflicting measurements
+
+* Uniqueness : No duplicate, redundant, or overlapping records exists across the dataset
+
+* Validity: Data is collected in accepted formats and they fall within the proper range as defined by the organizatons rules and parameters.
+
 ![Data Cleaning](https://github.com/leks39/Data-Cleaning/assets/113634690/5cb6e719-7c4b-4ab8-9d50-e66ec2e1bbd9)
